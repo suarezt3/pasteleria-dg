@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import {Logo} from './Components/logo/Logo';
-import Navbar from './Components/navbar/Navbar';
+import {Logo} from './Components/Logo/Logo';
+import Navbar from './Components/Navbar/Navbar.jsx';
 
 
 

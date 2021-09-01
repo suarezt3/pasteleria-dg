@@ -7,5 +7,6 @@ export const Logo = () => {
         <div className="logo-marca">
            <img src={logo} alt="Logo"/>
         </div>
-    )
+    );
 }
+
