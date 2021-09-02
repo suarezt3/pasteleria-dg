@@ -4,3 +4,13 @@
     background-color: gray;
     margin: 10px 10px 50px 10px;
 }
+
+.box-img {
+    width: 270px;
+    height: 270px;
+    background-color: turquoise;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}

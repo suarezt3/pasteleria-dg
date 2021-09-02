@@ -9,8 +9,8 @@ export const Card = () => {
       </div>
       <p>Torta de Tres leches</p>
       <div>
-        <label for="speed"></label>
-        <input type="number" name="speed" value="0" min="1" max="10" step="1" />
+          <label for="amount">Cantidad</label>
+        <input type="number" name="amount" min="0" max="20" step="1" />
       </div>
     </div>
   );
