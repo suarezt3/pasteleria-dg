@@ -71,4 +71,11 @@
     margin-right: auto;
     bottom: 16%;
     font-family: Montserrat, arial, helvetica;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+
+.btn-add:hover {
+    background-color: rgb(230, 96, 163);
+    color: aliceblue;
 }
