@@ -1,16 +1,73 @@
+
 .card {
     width: 300px;
     height: 380px;
-    background-color: gray;
     margin: 10px 10px 50px 10px;
+    border: 1px solid #000;
 }
 
 .box-img {
-    width: 270px;
-    height: 270px;
+    width: 210px;
+    height: 210px;
     background-color: turquoise;
     margin-top: 10px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 5px;
+    margin-bottom: -10px;
+}
+
+.product-description {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height:70px;
+    font-family: Fauna One, arial, helvetica;
+}
+
+.size {
+    font-family: Fauna one, arial, helvetica, sans-serif;
+    background-color: gray;
+    color: white;
+    border-radius: 2px;
+    font-size: 0.8em;
+    width: 41px;
+    height: 17px;
+    position: relative;
+    bottom: 80%;
+}
+
+.box-count {
+    width: 125px;
+    margin-left: 25px;
+    position: relative;
+    bottom: 35px;
+
+}
+
+.price {
+    font-family: Montserrat, arial, helvetica;
+    position: relative;
+    left: 68%;
+    bottom: 18%;
+    width: 70px;
+}
+
+.amount {
+    margin-right: 5px;
+    font-family: Montserrat, arial, helvetica;
+}
+
+.count {
+    width: 40px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+
+.btn-add {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 16%;
 }
