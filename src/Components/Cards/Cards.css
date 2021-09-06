@@ -14,7 +14,7 @@
 @media only screen and (min-width: 481px) {
     .cards {
         max-width: 100%;
-        background-color: rgb(255, 255, 255);
+        background-color: #fff;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 50px;
@@ -28,8 +28,8 @@
   
   @media only screen and (min-width: 769px){
     .cards {
-        max-width: 78%;
-        background-color: rgb(255, 255, 255);
+        max-width: 90%;
+        background-color: #fff;
         margin: 200px auto 0px auto;
         display: flex;
         flex-direction: row;
@@ -38,4 +38,6 @@
         align-items: center;
     }
   }
+
+  
   

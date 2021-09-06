@@ -1,0 +1,28 @@
+.box-text {
+    width: 300px;
+    margin: 0px auto 50px auto;
+    background-color: #fff;
+    padding-bottom: 5px;
+    font-family: Montserrat, helvetica, Helvetica, sans-serif;
+}
+
+
+@media only screen and (min-width: 480px) {
+    .box-text {
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .box-text {
+        width: 600px;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .box-text {
+        position: absolute;
+        top: 1900px;
+        left: 100px;
+    }
+}
