@@ -17,7 +17,6 @@ export const TotalProducts = () => {
             <i className="fas fa-plus"></i>
           </button>
         </div>
-        
       </div>
     </>
   );

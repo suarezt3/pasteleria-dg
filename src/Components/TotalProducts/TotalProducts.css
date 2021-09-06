@@ -8,8 +8,12 @@
 }
 
 .cart-price {
+    width: 110px;
     text-align: center;
     font-family: Montserrat, arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .cart-btn {
@@ -26,10 +30,25 @@
 /*! Mediaqueris  */
 
 @media only screen and (min-width: 481px) {
-    
+
 }
   
   @media only screen and (min-width: 769px){
-  
+    .cart-product {
+        position: relative;
+        left: -150px;
+    }
+
+    .cart-price {
+        position: relative;
+        left: 350px;
+        bottom: 45px;
+
+    }
+
+    .cart-btn {
+        position: relative;
+        bottom: 30px;
+    }
 }
   
