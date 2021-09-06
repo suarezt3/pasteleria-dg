@@ -1,7 +1,7 @@
 .box-text {
     width: 300px;
     margin: 0px auto 50px auto;
-    background-color: #fff;
+    background-color: inherit;
     padding-bottom: 5px;
     font-family: Montserrat, helvetica, Helvetica, sans-serif;
 }
@@ -23,6 +23,14 @@
     .box-text {
         position: absolute;
         top: 1900px;
+        left: 100px;
+    }
+}
+
+@media only screen and (min-width: 1423px) {
+    .box-text {
+        position: absolute;
+        top: 1460px;
         left: 100px;
     }
 }
