@@ -1,0 +1,35 @@
+.cart-product {
+    width: 250px;
+    height:70px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Fauna One, arial, helvetica;
+    margin-bottom: 60px;
+}
+
+.cart-price {
+    text-align: center;
+    font-family: Montserrat, arial, Helvetica, sans-serif;
+}
+
+.cart-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.cart-btn button {
+    margin-right: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+/*! Mediaqueris  */
+
+@media only screen and (min-width: 481px) {
+    
+}
+  
+  @media only screen and (min-width: 769px){
+  
+}
+  

@@ -4,6 +4,7 @@
     height: 380px;
     margin: 10px 10px 50px 10px;
     border: 1px solid #000;
+    background-color: #fff;
 }
 
 .box-img {
@@ -48,6 +49,7 @@
 .price {
     font-family: Montserrat, arial, helvetica;
     position: relative;
+    margin-right: 1px;
     left: 68%;
     bottom: 18%;
     width: 70px;
@@ -76,6 +78,6 @@
 }
 
 .btn-add:hover {
-    background-color: rgb(230, 96, 163);
+    background-color: #e660a3;
     color: aliceblue;
 }

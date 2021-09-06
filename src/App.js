@@ -9,6 +9,8 @@ import {Cakes} from "../src/Components/Cakes/Cakes";
 import {Cupcakes} from ".//Components/Cupcakes/Cupcakes";
 import {Frozen} from "./Components/Frozen/Frozen";
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+import {ShoppingCart} from "./Components/ShoppingCart/ShoppingCart";
+
 
 function App() {
   return (
@@ -25,6 +27,7 @@ function App() {
         </Switch>
       </Router>
       <Cards />
+      <ShoppingCart />
     </div>
   );
 }
