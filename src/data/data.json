@@ -32,7 +32,7 @@
         "id": 5,
         "url":    "https://photos.app.goo.gl/Y1EewMEcLLULWE9S8",
         "text":   "Torta con decoración de galletas, chocolate blanco y coco",
-        "price":  "$ 90.000"
+        "price":  "$ 80.000"
     },
 
     {
@@ -69,8 +69,25 @@
         "text":   "Torta infantil con decoracion especial para los mas pequeños de la casa",
         "price":  "$ 80.000"
     }
+    
+],
 
+    "cupcakes": [
+    {
+        "id": 11,
+        "url":    "https://photos.app.goo.gl/Eo5bT6zTMWecXAHr8",
+        "text":   "Hermosos y creativos cupcakes con lindos diseños",
+        "price":  "$ 5.500 c/u aprox."
+    },
 
+    {
+        "id": 12,
+        "url":    "https://photos.app.goo.gl/hfCbUY1txW4zwEYa8",
+        "text":   "Hermosos cupcakes personalizados con diseños en 3D"
+    }
 ]
 
 }
+
+
+   
