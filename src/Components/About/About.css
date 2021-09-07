@@ -1,16 +1,37 @@
 .container-about {
     font-family: Montserrat, arial, Helvetica, sans-serif;
-}
+    margin-bottom: 50px;
+  }
+
 .container-about h3 {
-    text-align: center;
-}
+      text-align: center;
+  }
 
 .box-about {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  margin: 0px auto 50px auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto 0px auto;
+  }
+  
+
+.box-image {
+  width: 150px;
+  height: 150px;
+  background-color: azure;
+  margin: 10px auto 5px auto;
+  border-radius: 50%;
 }
+
+.name {
+  text-align: center;
+}
+
+.name + p {
+  width: 97%;
+  margin-left: 5px;
+}
+
 
 .about {
   width: 300px;

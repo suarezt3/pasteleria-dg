@@ -12,6 +12,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 import {ShoppingCart} from "./Components/ShoppingCart/ShoppingCart";
 import { Text } from "./Components/Text/Text";
 import { About } from "./Components/About/About";
+import { Footer } from "./Components/Footer/Footer";
 
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
       <ShoppingCart />
       <Text />
       <About />
+      <Footer />
     </div>
   );
 }
