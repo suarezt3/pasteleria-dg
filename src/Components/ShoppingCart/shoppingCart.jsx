@@ -21,6 +21,7 @@ export const ShoppingCart = () => {
             <h3 className="total">Total</h3>
             <h3 className="total-price">$ 35.000</h3>
         </div>
+        <button className="pay">Pagar</button>
         </div>
     )
 }

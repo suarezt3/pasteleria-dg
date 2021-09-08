@@ -28,12 +28,29 @@
     margin-left: auto;
     margin-right: auto;
     font-family: Montserrat, arial,Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+
+.box-total :nth-child(1) {
+    margin-left: 5px;
 }
 
 .box-total :nth-child(2) {
     position: relative;
-    left: 57%;
+    left: 55%;
 }
+
+.pay {
+    display: block;
+    background-color: slateblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 5px;
+}
+
 
 /*! Mediaqueris  */
 
