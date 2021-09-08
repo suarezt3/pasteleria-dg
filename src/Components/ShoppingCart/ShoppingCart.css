@@ -42,11 +42,10 @@
 
 .pay {
     display: block;
-    background-color: slateblue;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    border: none;
+    border: 1px solid #000;
     border-radius: 5px;
     padding: 3px 5px;
 }
