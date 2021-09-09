@@ -8,7 +8,7 @@ import { Welcome } from "./Components/Welcome/Welcome";
 import {Cakes} from "../src/Components/Cakes/Cakes";
 import {Cupcakes} from ".//Components/Cupcakes/Cupcakes";
 import {Frozen} from "./Components/Frozen/Frozen";
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import {ShoppingCart} from "./Components/ShoppingCart/ShoppingCart";
 import { Text } from "./Components/Text/Text";
 import { About } from "./Components/About/About";

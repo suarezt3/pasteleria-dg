@@ -3,7 +3,7 @@ import "./TotalProducts.css";
 
 export const TotalProducts = () => {
   return (
-    <>
+    <div>
       <div className="cart-product">
         <p className="cart-description">
           Tortas temáticas (redondas o cuadradas) con Toppers en 3D
@@ -18,6 +18,6 @@ export const TotalProducts = () => {
           </button>
         </div>
       </div>
-    </>
+    </div>
   );
 };
