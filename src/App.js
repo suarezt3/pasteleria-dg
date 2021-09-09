@@ -13,6 +13,7 @@ import {ShoppingCart} from "./Components/ShoppingCart/ShoppingCart";
 import { Text } from "./Components/Text/Text";
 import { About } from "./Components/About/About";
 import { Footer } from "./Components/Footer/Footer";
+import { Card } from "./Components/Card/Card";
 
 
 function App() {
@@ -22,13 +23,6 @@ function App() {
       <Logo />
       <Welcome />
       <Filter />
-      <Router>
-        <Switch>
-          <Route exact path="/cakes" component={Cakes} />
-          <Route exact path="/cupcakes" component={Cupcakes} />
-          <Route exact path="/frozen" component={Frozen} />
-        </Switch>
-      </Router>
       <Cards />
       <ShoppingCart />
       <Text />

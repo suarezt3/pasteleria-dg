@@ -2,70 +2,70 @@
   "tortas": [
     {
       "id": 1,
-      "url": "https://photos.app.goo.gl/h1jPmnDUL2uum1RV9",
+      "imagen": "https://stacbond.com/wp-content/uploads/2020/07/corte-2_Mesa-de-trabajo-1.png",
       "text": "Torta tematica con figuras en 3D",
       "price": "$ 75.000"
     },
 
     {
       "id": 2,
-      "url": "https://photos.app.goo.gl/oQPwwXkC3WxUZNTZ7",
+      "imagen": "https://photos.app.goo.gl/oQPwwXkC3WxUZNTZ7",
       "text": "Torta tematica de 2 pisos con figuras en 3D",
       "price": "$ 130.000"
     },
 
     {
       "id": 3,
-      "url": "https://photos.app.goo.gl/8d8QAynhcG5cWfdA9",
+      "imagen": "https://photos.app.goo.gl/8d8QAynhcG5cWfdA9",
       "text": "Torta tematica sencilla de un piso",
       "price": "$ 50.000"
     },
 
     {
       "id": 4,
-      "url": "https://photos.app.goo.gl/Ssdm8JrVSQUwpDfo8",
+      "imagen": "https://photos.app.goo.gl/Ssdm8JrVSQUwpDfo8",
       "text": "Hermosa torta con decoracion especial para momentos inolvidables",
       "price": "$ 90.000"
     },
 
     {
       "id": 5,
-      "url": "https://photos.app.goo.gl/Y1EewMEcLLULWE9S8",
+      "imagen": "https://photos.app.goo.gl/Y1EewMEcLLULWE9S8",
       "text": "Torta con decoración de galletas, chocolate blanco y coco",
       "price": "$ 80.000"
     },
 
     {
       "id": 6,
-      "url": "https://photos.app.goo.gl/Rt7NXKFVZ7MyjfHn9",
+      "imagen": "https://photos.app.goo.gl/Rt7NXKFVZ7MyjfHn9",
       "text": "Deliciosa torta de chocolate negro y blanco con masmelos",
       "price": "$ 70.000"
     },
 
     {
       "id": 7,
-      "url": "https://photos.app.goo.gl/YW7fz4yBsfKDXBUw7",
+      "imagen": "https://photos.app.goo.gl/YW7fz4yBsfKDXBUw7",
       "text": "Torta con decoracion de diferentes motivos para toda ocacion",
       "price": "$ 80.000"
     },
 
     {
       "id": 8,
-      "url": "https://photos.app.goo.gl/NyS1FP8LhPeMULaR7",
+      "imagen": "https://photos.app.goo.gl/NyS1FP8LhPeMULaR7",
       "text": "Torta de 2 pisos con una decoracion especial para sorprender a esa persona especial en tu vida",
       "price": "$ 120.000"
     },
 
     {
       "id": 9,
-      "url": "https://photos.app.goo.gl/Lnas8qR95qJCzNLYA",
+      "imagen": "https://photos.app.goo.gl/Lnas8qR95qJCzNLYA",
       "text": "Hermosa torta de 2 pisos con decoracion infantil.",
       "price": "$ 120.000"
     },
 
     {
       "id": 10,
-      "url": "https://photos.app.goo.gl/TK9o5jE8GRSogXQ1A",
+      "imagen": "https://photos.app.goo.gl/TK9o5jE8GRSogXQ1A",
       "text": "Torta infantil con decoracion especial para los mas pequeños de la casa",
       "price": "$ 80.000"
     }
@@ -74,35 +74,35 @@
   "cupcakes": [
     {
       "id": 11,
-      "url": "https://photos.app.goo.gl/Eo5bT6zTMWecXAHr8",
+      "imagen": "https://photos.app.goo.gl/Eo5bT6zTMWecXAHr8",
       "text": "Hermosos y creativos cupcakes con lindos diseños",
       "price": "$ 5.500 c/u aprox."
     },
 
     {
       "id": 12,
-      "url": "https://photos.app.goo.gl/hfCbUY1txW4zwEYa8",
+      "imagen": "https://photos.app.goo.gl/hfCbUY1txW4zwEYa8",
       "text": "Hermosos cupcakes personalizados con diseños en 3D",
       "price": "$ 7.500 c/u aprox."
     },
 
     {
       "id": 13,
-      "url": "https://photos.app.goo.gl/KUvQSf5XvA4DkFgc7",
+      "imagen": "https://photos.app.goo.gl/KUvQSf5XvA4DkFgc7",
       "text": "Cupcakes con decoraciones especiales para toda ocacion",
       "price": "$ 7.500 c/u aprox."
     },
 
     {
       "id": 14,
-      "url": "https://photos.app.goo.gl/icXLwwaB5MmdByqP9",
+      "imagen": "https://photos.app.goo.gl/icXLwwaB5MmdByqP9",
       "text": "expresa eso que quieres decir con nuestros deliciosos cupcakes",
       "price": " 7.500 c/u aprox."
     },
 
     {
       "id": 15,
-      "url": "https://photos.app.goo.gl/Ee1g5AQCNMErmzxo7",
+      "imagen": "https://photos.app.goo.gl/Ee1g5AQCNMErmzxo7",
       "tex": "Cupcakes con diferentes tipos de relleno que eldunzaran cualquier momento del dia",
       "price": " 7.500 c/u aprox."
     }
@@ -111,14 +111,14 @@
   "Frozen": [
     {
       "id": 16,
-      "url": "https://photos.app.goo.gl/XdoN4T7ftDbpmKFg6",
+      "imagen": "https://photos.app.goo.gl/XdoN4T7ftDbpmKFg6",
       "text": "Paquete de mini dedos por 10 unidades para calmar esos antojitos del dia.",
       "price": "$ 3.500"
     },
 
     {
         "id": 17,
-        "url": "https://photos.app.goo.gl/XTfGzGqYFbpHoxaFA",
+        "imagen": "https://photos.app.goo.gl/XTfGzGqYFbpHoxaFA",
         "text": "Paquete grande de dedos por 10 unidades",
         "price": "$ 5.000"
     }
