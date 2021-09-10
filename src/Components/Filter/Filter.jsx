@@ -7,7 +7,6 @@ export const Filter = () => {
         <ul className="filter">
           <li>Cakes</li>
           <li>Cupcakes</li>
-          <li>Frozen</li>
         </ul>
     )
 }

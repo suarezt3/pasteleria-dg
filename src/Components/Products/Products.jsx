@@ -1,19 +1,17 @@
 import React from "react";
-import { Card } from "../Card/Card";
-import "./Cards.css";
+import { Cakes } from "../Cakes/Cakes";
+import "./Products.css";
 import data from '../../data/data.json';
 
 
-export const Cards = () => {
+export const Products = () => {
 
     console.log(data.tortas.map(torta => torta.text))
 
   return (
     <div className="cards">
-       
-
     {
-        data.tortas.map((tortas, index) => (<Card
+        data.tortas.map((tortas, index) => (<Cakes
         key={index} 
         imagen={tortas.imagen} 
         text={tortas.text} 

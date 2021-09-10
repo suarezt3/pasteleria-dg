@@ -2,49 +2,49 @@
   "tortas": [
     {
       "id": 1,
-      "imagen": "https://i.ibb.co/855TGmR/cake-happy-1.png",
-      "text": "Torta tematica con figuras en 3D",
+      "imagen": "https://i.ibb.co/CbZm6nj/cake-1.png",
+      "text": "Torta personalizada en crema con frutas",
       "price": "$ 75.000"
     },
 
     {
       "id": 2,
-      "imagen": "https://i.ibb.co/Gpxjy6L/cake-happy-2.png",
-      "text": "Torta tematica de 2 pisos con figuras en 3D",
+      "imagen": "https://i.ibb.co/Nm1CYRm/cake-2.png",
+      "text": "Torta tematica con figuras en 3D para una ocasión especial",
       "price": "$ 130.000"
     },
 
     {
       "id": 3,
-      "imagen": "https://i.ibb.co/X7yhkrq/cake-haapy-3.png",
+      "imagen": "https://i.ibb.co/KN0Thc0/cake-3.png",
       "text": "Torta tematica sencilla de un piso",
       "price": "$ 50.000"
     },
 
     {
       "id": 4,
-      "imagen": "https://i.ibb.co/gt33jst/cake-haapy-4.png",
+      "imagen": "https://i.ibb.co/kMLhx90/cake-kids-1.png",
       "text": "Hermosa torta con decoracion especial para momentos inolvidables",
       "price": "$ 90.000"
     },
 
     {
       "id": 5,
-      "imagen": "https://i.ibb.co/D7J96zK/cake-haapy-5.png",
-      "text": "Torta con decoración de galletas, chocolate blanco y coco",
+      "imagen": "https://i.ibb.co/2vMptZn/cake-kids-3.png",
+      "text": "Torta Free fire de un piso con figuras en 3D",
       "price": "$ 80.000"
     },
 
     {
       "id": 6,
-      "imagen": "https://i.ibb.co/kgtcT5h/cake-haapy-6.png",
-      "text": "Deliciosa torta de chocolate negro y blanco con masmelos",
+      "imagen": "https://i.ibb.co/6nfz6M9/cake-kids-4.png",
+      "text": "Hermosa torta de 2 pisos para los mas pequeños de la casa",
       "price": "$ 70.000"
     },
 
     {
       "id": 7,
-      "imagen": "https://i.ibb.co/sVFkZKM/cake-haapy-7.png",
+      "imagen": "https://i.ibb.co/KywDjzR/cake-kids-9.png",
       "text": "Torta con decoracion de diferentes motivos para toda ocacion",
       "price": "$ 80.000"
     },
@@ -58,69 +58,47 @@
 
     {
       "id": 9,
-      "imagen": "https://i.ibb.co/bWB2wxm/cake-kids-1.png",
-      "text": "Hermosa torta de 2 pisos con decoracion infantil.",
+      "imagen": "https://i.ibb.co/WvbtwCh/cake-kids-6.png",
+      "text": "Torta en crema con decoracion sencilla infantil.",
       "price": "$ 120.000"
-    },
-
-    {
-      "id": 10,
-      "imagen": "https://i.ibb.co/xMwd203/cake-kids-2.png",
-      "text": "Torta infantil con decoracion especial para los mas pequeños de la casa",
-      "price": "$ 80.000"
     }
   ],
 
   "cupcakes": [
     {
-      "id": 11,
+      "id": 10,
       "imagen": "https://photos.app.goo.gl/Eo5bT6zTMWecXAHr8",
       "text": "Hermosos y creativos cupcakes con lindos diseños",
       "price": "$ 5.500 c/u aprox."
     },
 
     {
-      "id": 12,
+      "id": 11,
       "imagen": "https://photos.app.goo.gl/hfCbUY1txW4zwEYa8",
       "text": "Hermosos cupcakes personalizados con diseños en 3D",
       "price": "$ 7.500 c/u aprox."
     },
 
     {
-      "id": 13,
+      "id": 12,
       "imagen": "https://photos.app.goo.gl/KUvQSf5XvA4DkFgc7",
       "text": "Cupcakes con decoraciones especiales para toda ocacion",
       "price": "$ 7.500 c/u aprox."
     },
 
     {
-      "id": 14,
+      "id": 13,
       "imagen": "https://photos.app.goo.gl/icXLwwaB5MmdByqP9",
       "text": "expresa eso que quieres decir con nuestros deliciosos cupcakes",
       "price": " 7.500 c/u aprox."
     },
 
     {
-      "id": 15,
+      "id": 14,
       "imagen": "https://photos.app.goo.gl/Ee1g5AQCNMErmzxo7",
       "tex": "Cupcakes con diferentes tipos de relleno que eldunzaran cualquier momento del dia",
       "price": " 7.500 c/u aprox."
     }
-  ],
+  ]
 
-  "Frozen": [
-    {
-      "id": 16,
-      "imagen": "https://photos.app.goo.gl/XdoN4T7ftDbpmKFg6",
-      "text": "Paquete de mini dedos por 10 unidades para calmar esos antojitos del dia.",
-      "price": "$ 3.500"
-    },
-
-    {
-        "id": 17,
-        "imagen": "https://photos.app.goo.gl/XTfGzGqYFbpHoxaFA",
-        "text": "Paquete grande de dedos por 10 unidades",
-        "price": "$ 5.000"
-    }
-]
 }
