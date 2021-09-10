@@ -2,70 +2,70 @@
   "tortas": [
     {
       "id": 1,
-      "imagen": "https://stacbond.com/wp-content/uploads/2020/07/corte-2_Mesa-de-trabajo-1.png",
+      "imagen": "https://i.ibb.co/855TGmR/cake-happy-1.png",
       "text": "Torta tematica con figuras en 3D",
       "price": "$ 75.000"
     },
 
     {
       "id": 2,
-      "imagen": "https://photos.app.goo.gl/oQPwwXkC3WxUZNTZ7",
+      "imagen": "https://i.ibb.co/Gpxjy6L/cake-happy-2.png",
       "text": "Torta tematica de 2 pisos con figuras en 3D",
       "price": "$ 130.000"
     },
 
     {
       "id": 3,
-      "imagen": "https://photos.app.goo.gl/8d8QAynhcG5cWfdA9",
+      "imagen": "https://i.ibb.co/X7yhkrq/cake-haapy-3.png",
       "text": "Torta tematica sencilla de un piso",
       "price": "$ 50.000"
     },
 
     {
       "id": 4,
-      "imagen": "https://photos.app.goo.gl/Ssdm8JrVSQUwpDfo8",
+      "imagen": "https://i.ibb.co/gt33jst/cake-haapy-4.png",
       "text": "Hermosa torta con decoracion especial para momentos inolvidables",
       "price": "$ 90.000"
     },
 
     {
       "id": 5,
-      "imagen": "https://photos.app.goo.gl/Y1EewMEcLLULWE9S8",
+      "imagen": "https://i.ibb.co/D7J96zK/cake-haapy-5.png",
       "text": "Torta con decoración de galletas, chocolate blanco y coco",
       "price": "$ 80.000"
     },
 
     {
       "id": 6,
-      "imagen": "https://photos.app.goo.gl/Rt7NXKFVZ7MyjfHn9",
+      "imagen": "https://i.ibb.co/kgtcT5h/cake-haapy-6.png",
       "text": "Deliciosa torta de chocolate negro y blanco con masmelos",
       "price": "$ 70.000"
     },
 
     {
       "id": 7,
-      "imagen": "https://photos.app.goo.gl/YW7fz4yBsfKDXBUw7",
+      "imagen": "https://i.ibb.co/sVFkZKM/cake-haapy-7.png",
       "text": "Torta con decoracion de diferentes motivos para toda ocacion",
       "price": "$ 80.000"
     },
 
     {
       "id": 8,
-      "imagen": "https://photos.app.goo.gl/NyS1FP8LhPeMULaR7",
+      "imagen": "https://i.ibb.co/SBQ45sM/cake-happy-8.png",
       "text": "Torta de 2 pisos con una decoracion especial para sorprender a esa persona especial en tu vida",
       "price": "$ 120.000"
     },
 
     {
       "id": 9,
-      "imagen": "https://photos.app.goo.gl/Lnas8qR95qJCzNLYA",
+      "imagen": "https://i.ibb.co/bWB2wxm/cake-kids-1.png",
       "text": "Hermosa torta de 2 pisos con decoracion infantil.",
       "price": "$ 120.000"
     },
 
     {
       "id": 10,
-      "imagen": "https://photos.app.goo.gl/TK9o5jE8GRSogXQ1A",
+      "imagen": "https://i.ibb.co/xMwd203/cake-kids-2.png",
       "text": "Torta infantil con decoracion especial para los mas pequeños de la casa",
       "price": "$ 80.000"
     }

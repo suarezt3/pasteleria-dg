@@ -1,6 +1,7 @@
 import React from "react";
 import "./Card.css";
 
+
 export const Card = ({imagen, text, price}) => {
 
   console.log(imagen)

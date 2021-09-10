@@ -10,12 +10,17 @@
 .box-img {
     width: 210px;
     height: 210px;
-    background-color: turquoise;
     margin-top: 10px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 5px;
     margin-bottom: -10px;
+}
+
+.img {
+    width: 210px;
+    height: 210px;
+    
 }
 
 .product-description {
@@ -52,7 +57,8 @@
     margin-right: 1px;
     left: 68%;
     bottom: 18%;
-    width: 70px;
+    width: 80px;
+    background-color: yellow;
 }
 
 .amount {
