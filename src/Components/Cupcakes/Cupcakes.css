@@ -1,0 +1,21 @@
+.count {
+    width: 40px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+
+.btn-add {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 16%;
+    font-family: Montserrat, arial, helvetica;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+
+.btn-add:hover {
+    background-color: #e660a3;
+    color: aliceblue;
+}

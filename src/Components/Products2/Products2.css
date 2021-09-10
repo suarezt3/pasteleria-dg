@@ -1,0 +1,41 @@
+.cards {
+    max-width: 100%;
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+}
+
+/*! Mediaqueris  */
+
+@media only screen and (min-width: 481px) {
+    .cards {
+        max-width: 100%;
+        background-color: #fff;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    
+  }
+  
+  @media only screen and (min-width: 769px){
+    .cards {
+        max-width: 90%;
+        background-color: #fff;
+        margin: 200px auto 0px auto;
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 50px;
+        justify-content: center;
+        align-items: center;
+    }
+  }
