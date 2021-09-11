@@ -1,12 +1,13 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
 import "./Filter.css";
 
 export const Filter = () => {
   return (
     <ul className="filter">
-      <Link exact to="/products" activeClassName="active">Cakes</Link>
-      <Link exact to="/products2" activeClassName="active">Cupcakes</Link>
+      <li><Link exact to="/products" activeClassName="active">Cakes</Link></li>
+      <li><Link exact to="/productsTwo" activeClassName="active">Cupcakes</Link></li>
+      
     </ul>  
   );
 };

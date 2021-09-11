@@ -2,6 +2,9 @@ import React from 'react';
 import './Cupcakes.css'
 
 export const Cupcakes = (imagen, text, price) => {
+
+  console.log(imagen)
+
     return (
         <div>
             <div className="card">

@@ -1,11 +1,11 @@
 import React from 'react';
-import './Products2.css';
+import './ProductsTwo.css';
 import { Cupcakes } from '../Cupcakes/Cupcakes';
 import data from '../../data/data.json';
 
-export const Products2 = () => {
+export const ProductsTwo = () => {
     return (
-        <div className="cards">
+        <div className="products-two">
     {
         data.cupcakes.map((cupcakes, index) => (<Cupcakes
         key={index} 

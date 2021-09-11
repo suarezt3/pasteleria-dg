@@ -10,9 +10,7 @@ import { ShoppingCart } from "./Components/ShoppingCart/ShoppingCart";
 import { Text } from "./Components/Text/Text";
 import { About } from "./Components/About/About";
 import { Footer } from "./Components/Footer/Footer";
-import { Cakes } from "./Components/Cakes/Cakes";
-import { Cupcakes } from "./Components/Cupcakes/Cupcakes";
-import { Products2 } from "./Components/Products2/Products2";
+import { ProductsTwo } from "./Components/ProductsTwo/ProductsTwo";
 
 function App() {
   return (
@@ -21,10 +19,12 @@ function App() {
         <Navbar />
         <Logo />
         <Welcome />
+        <Products />
+        <ProductsTwo />
         <Switch>
         <Filter />
-          <Route exact path="/products" component={Products} />
-          <Route exact path="/products2" component={Products2} />
+        <Route exact path="/" component={Products} />
+        <Route exact path="/cupcakes" component={ProductsTwo} />
         </Switch>
         <ShoppingCart />
         <Text />
